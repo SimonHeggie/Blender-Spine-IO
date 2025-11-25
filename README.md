@@ -7,6 +7,8 @@ Blender: 4.2+
 Spine Target: 4.3.39-beta
 License: GPL-3.0 license
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/62W1ierof6g?si=W4vbc47OVGXMlqFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### What is Blender-Spine-IO?
 
 Blender-Spine-IO is a set of tightly-integrated Blender extension modules that export Blender armatures, meshes, weights, UVs, and blend-modes into valid Spine 4.3 JSON — supporting complex deformation meshes, OCA/OCO workflows, and non-destructive material setups.
