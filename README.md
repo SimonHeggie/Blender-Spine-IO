@@ -7,7 +7,9 @@ Blender: 4.2+
 Spine Target: 4.3.39-beta
 License: GPL-3.0 license
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/62W1ierof6g?si=W4vbc47OVGXMlqFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+CLICK THE VIDEO THUMBNAIL BELOW TO SEE A DEMONSTRATION:
+
+[![EP-0001 Blender–Spine IO pre-release](https://img.youtube.com/vi/62W1ierof6g/maxresdefault.jpg)](https://odysee.com/@DigitalArtFreedom:6/EP-0001_Blender-Spine-IO_pre-release)
 
 ### What is Blender-Spine-IO?
 
