@@ -1,4 +1,4 @@
-Blender-Spine-IO
+Spine-IO
 Open source Spine 4.3 JSON Exporter for Blender — OCA/OCO-friendly pipeline
 
 Author: Simon Heggie
@@ -11,9 +11,9 @@ CLICK THE VIDEO THUMBNAIL BELOW TO SEE A DEMONSTRATION:
 
 [![EP-0001 Blender–Spine IO pre-release](https://img.youtube.com/vi/62W1ierof6g/maxresdefault.jpg)](https://odysee.com/@DigitalArtFreedom:6/EP-0001_Blender-Spine-IO_pre-release)
 
-### What is Blender-Spine-IO?
+### What is Spine-IO?
 
-Blender-Spine-IO is a set of tightly-integrated Blender extension modules that export Blender armatures, meshes, weights, UVs, and blend-modes into valid Spine 4.3 JSON — supporting complex deformation meshes, OCA/OCO workflows, and non-destructive material setups.
+Spine-IO is a set of tightly-integrated Blender extension modules that export Blender armatures, meshes, weights, UVs, and blend-modes into valid Spine 4.3 JSON — supporting complex deformation meshes, OCA/OCO workflows, and non-destructive material setups.
 
 For now this is just an exporter, but I called this IO because Importing is planned.
 
@@ -24,7 +24,7 @@ Go to Edit → Preferences → Extensions.
 
 Install from ZIP (or symlink into the extensions directory).
 
-Enable “Blender-Spine-IO (Spine 4.3 JSON Exporter)”.
+Enable “Spine-IO (Spine 4.3 JSON Exporter)”.
 
 As a legacy Add-on
 
