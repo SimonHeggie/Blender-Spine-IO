@@ -17,7 +17,11 @@ Spine-IO is a set of tightly-integrated Blender extension modules that export Bl
 
 For now this is just an exporter, but I called this IO because Importing is planned.
 
-## Installation
+## Installation (Easy)
+
+Go to your Extensions manager in Preferences, search for 'Spine-IO' and download.
+
+## Installation (Manual)
 As a Blender 4.2+ Extension (recommended)
 
 Go to Edit → Preferences → Extensions.
